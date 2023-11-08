@@ -4,16 +4,19 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
-<a href="https://github.com/tinygeeker">
-  <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@:79rose?theme=rule34" alt="79rose" />
-  </div>
-</a>
+<!-- HTML -->
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=79rose" />
+
+
 
 <!-- ======================================= -->
 
-* 😄Read more about my [掘金](https://juejin.cn/user/1876179903053869)
-* 👯Follow me on [blog](http://47.115.213.194/)
+
+
+ 😄Read more about my [掘金](https://juejin.cn/user/1876179903053869)
+ 
+ 👯Follow me on [blog](http://47.115.213.194/)
+
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
@@ -23,8 +26,4 @@
 
 <!-- ======================================= -->
 
-##### GitHub status
-
-<!-- HTML -->
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=79rose" />
 
