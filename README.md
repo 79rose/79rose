@@ -15,7 +15,7 @@
 
  😄Read more about my [掘金](https://juejin.cn/user/1876179903053869)
  
- 👯Follow me on [blog](http://47.115.213.194/)
+ 👯Follow me on [blog](http://47.119.20.58/)
 
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
