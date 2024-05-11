@@ -18,9 +18,10 @@
 <!-- ======================================= -->
 
 
- 👯**Follow me on** *[blog](http://47.119.20.58/)*
+ <!-- 👯**Follow me on** *[blog](http://47.119.20.58/)*
  
- 😄**Read more about my** *[掘金](https://juejin.cn/user/1876179903053869)*
+😄**Read more about my** *[掘金](https://juejin.cn/user/1876179903053869)*
+ -->
  
 
 
